@@ -26,42 +26,6 @@ A customizable Discord bot for ticket management and support systems.
 - Discord Bot Token
 - Discord Developer Application
 
-### Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd blazing-ticket-bot
-   ```
-
-2. **Create virtual environment**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Configure the bot**
-   ```bash
-   cp config.example.py config.py
-   # Edit config.py with your settings
-   ```
-
-5. **Set up environment variables**
-   ```bash
-   # Create token.txtfile
-  echo "token" # i recommend change it to env, so u can hide your discord bot token.
-   ```
-
-6. **Run the bot**
-   ```bash
-   python bot.py
-   ```
-
 ## Configuration
 
 Edit `config.py` to customize:
