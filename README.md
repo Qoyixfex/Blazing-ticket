@@ -1,6 +1,6 @@
 # Blazing Ticket - Discord Bot
 ***Reminder, this is still beta, so might be a little bug.***
-![Demo Screenshot](https://files.catbox.moe/5o6hb6.png)
+
 A customizable Discord bot for ticket management and support systems.
 
 ## Features
@@ -33,14 +33,6 @@ Edit `bot.py` to customize:
 # Bot Configuration
 BOT_PREFIX = "/"
 BOT_STATUS = "Can customize."
-
-# List of commands
-/setup # for role setup only
-/panel # run it on ticket channel
-
-# Customization
-can custome codes, and stuff.
-```
 
 # commands:
 
