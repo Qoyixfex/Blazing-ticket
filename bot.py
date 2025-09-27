@@ -6,7 +6,6 @@ import datetime
 import json
 import os
 
-# Bot configuration
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix='!', intents=intents, help_command=None)
 
@@ -14,7 +13,7 @@ bot = commands.Bot(command_prefix='!', intents=intents, help_command=None)
 TICKETS_FILE = "tickets.json"
 CONFIG_FILE = "config.json"
 
-# Default configuration
+# config
 default_config = {
     "staff_role_id": None,
     "ticket_category_id": None,
