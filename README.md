@@ -19,7 +19,6 @@ A customizable Discord bot for ticket management and support systems.
 - **Python 3.8+**
 - **discord.py 2.0+**
 - **SQLite/PostgreSQL** database
-- **asyncio** for async operations
 
 ### Prerequisites
 
