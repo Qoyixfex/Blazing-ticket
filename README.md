@@ -1,7 +1,6 @@
 # Blazing Ticket - Discord Bot
 ***Reminder, this is still beta, so might be a little bug.***
 
-https://files.catbox.moe/5o6hb6.gif
 A customizable Discord bot for ticket management and support systems.
 
 ## Features
