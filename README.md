@@ -28,7 +28,7 @@ A customizable Discord bot for ticket management and support systems.
 
 ## Configuration
 
-Edit `config.py` to customize:
+Edit `bot.py` to customize:
 
 ```python
 # Bot Configuration
