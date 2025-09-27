@@ -32,7 +32,7 @@ Edit `bot.py` to customize:
 ```python
 # Bot Configuration
 BOT_PREFIX = "/"
-BOT_STATUS = "Can customize."
+BOT_STATUS = "Can customize."```
 
 # commands:
 
