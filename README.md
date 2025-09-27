@@ -9,7 +9,6 @@
 - **🔐 Role-Based Access Control** - Automatic role assignments and permission management
 - **⚙️ Customizable Commands** - Tailor commands to fit your server's needs
 - **📊 Comprehensive Logging** - Detailed activity logs for moderation and analytics
-- **📁 File Attachment Support** - Handle files and media within tickets
 - **⚡ High Performance** - Optimized for servers of all sizes
 - **🎨 Easy Customization** - Simple configuration and extensible architecture
 
