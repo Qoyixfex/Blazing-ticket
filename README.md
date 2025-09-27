@@ -48,22 +48,12 @@ can custome codes, and stuff.
 ### `/help`
 Displays the help menu with all available commands and their descriptions.
 
-**Usage:**
-```
-/help 
-```
-
-**Examples:**
-```
-/help          # Shows all commands
-```
-
 ### `/panel`
 Creates an interactive ticket panel where users can open new tickets.
 
 **Usage:**
 ```
-/panel [support role] [staff role]
+/panel # use it on ticket channel
 ```
 
 **Examples:**
@@ -74,11 +64,11 @@ Creates an interactive ticket panel where users can open new tickets.
 **Permissions Required:** Administrator
 
 ### `/setup`
-Initial setup wizard for configuring the bot on your server.
+Initial setup for configuring the bot on your server.
 
 **Usage:**
 ```
-/setup
+/setup  [support role] [staff role]
 ```
 
 **Setup Steps:**
