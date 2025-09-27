@@ -43,9 +43,7 @@ BOT_STATUS = "Can customize."
 can custome codes, and stuff.
 ```
 
-## Project Structure
-
-## Command Usage
+# commands:
 
 ### `/help`
 Displays the help menu with all available commands and their descriptions.
